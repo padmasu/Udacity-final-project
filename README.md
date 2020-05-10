@@ -1,14 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+May 10, 2020
 
 ### Project Title
-Replace the Project Title
+GitHub project for BikeShare data
 
 ### Description
-Describe what your project is about and what it does
+Displays bike share data throughout cities.
 
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
