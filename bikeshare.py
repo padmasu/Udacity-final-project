@@ -243,3 +243,4 @@ def main():
 if __name__ == "__main__":
 	main()
 #I would refactor if I was more advanced here. And another comment...
+#These comments are for the git project. I found it not too bad at all!
