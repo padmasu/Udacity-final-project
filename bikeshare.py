@@ -215,7 +215,7 @@ def raw(df):
     
     while True:
         raw_u = input("Would you like to view 5 lines of raw data for your city? Enter 'yes' if so.\n-->").lower()
-        if raw_u != 'yes':
+        if raw_u != 'yes' or upper >= len(df):
             break
         
         else:
