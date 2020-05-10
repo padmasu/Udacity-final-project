@@ -5,7 +5,7 @@ May 10, 2020
 GitHub project for BikeShare data
 
 ### Description
-Displays bike share data throughout cities.
+Displays bike share data throughout cities using user input!
 
 ### Files used
 bikeshare.py
