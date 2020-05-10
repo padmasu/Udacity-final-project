@@ -9,6 +9,9 @@ Displays bike share data throughout cities using user input!
 
 ### Files used
 bikeshare.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
 N/A
