@@ -46,7 +46,7 @@ def get_filters():
    
     while True:
        
-            month_u = input("Type a month for a specific time frame of data. For all months type 'all'\n--> ").lower()
+            month_u = input("Type a month between January and June for a specific time frame of data. For all months type 'all'\n--> ").lower()
             while len(month_u.strip()) == 0:  
                 month_u = input("Please try again.\n-->")
        
